@@ -1,6 +1,6 @@
 # BioMed-Datathon-BUET-BME
 
-## Final LB position: 5th ( macro-averaged f1 score: 0.5177)
+## Final LB position: 5th (macro-averaged f1 score: 0.5177)
 
 Code solution for BioMed Datathon, an Inter-university Competition on Building AI Solutions for Medical Data Through Multi-Label Classification
 
